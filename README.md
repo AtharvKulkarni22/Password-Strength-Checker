@@ -1,5 +1,6 @@
 # **Password Strength Classifier**
 Password Strength Checker App that allows users to check the strength of their password.
+![App Image](Results/strong_password_image.png) 
 
 ## **1. Dataset**  
 The dataset is taken from **[Kaggle - Password Strength Classifier Dataset](https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset)**.  
@@ -46,6 +47,7 @@ The accuracy of the model on the development set over training batches is shown 
 ![Accuracy Plot](Results/Model_Accuracy_On_Dev_Set_During_Training.png)  
 
 ### **Final Test Accuracy & Classification Report**
+```sh
 Final Test Accuracy: 0.9995
 Classification Report:
               precision    recall  f1-score   support
@@ -57,7 +59,7 @@ Classification Report:
     accuracy                           1.00     66964
    macro avg       1.00      1.00      1.00     66964
 weighted avg       1.00      1.00      1.00     66964
-
+```
 ---
 
 ## **5. Limitations**  
@@ -71,7 +73,9 @@ This tool should be used responsibly and not be modified for malicious purposes 
 This project is licensed under the **MIT License**. 
 
 ## **8. How to Run**  
-Please run the app using the following command:  
+Please clone the repositary and run the app using the following command from the base directory of the repsitory:  
 
 ```sh
 python User_Interface/ui.py
+```
+- Then type in your desired password and click check strength to see the strength of your password displayed as either: Strong, Medium or Weak.
