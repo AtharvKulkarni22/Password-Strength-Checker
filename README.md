@@ -5,7 +5,7 @@ Password Strength Checker App that allows users to check the strength of their p
 ## **1. Dataset**  
 The dataset is taken from **[Kaggle - Password Strength Classifier Dataset](https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset)**.  
 
-- The dataset contains 669,640 passwords, each labeled as:
+- The dataset contains 669,643 passwords, each labeled as:
   - `0` → Weak  
   - `1` → Medium  
   - `2` → Strong  
