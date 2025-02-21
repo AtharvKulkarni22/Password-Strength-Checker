@@ -64,10 +64,13 @@ weighted avg       1.00      1.00      1.00     66964
 ---
 
 ## **5. Limitations**  
-This tool relies on password length and common patterns, which may not always reflect true security strength. It is a basic machine learning model and does not match the robustness of enterprise-level security checkers. The dataset may not cover all characteristics of weak passwords.  
+- This tool relies on password length and common patterns, which may not always reflect true security strength. It is a basic machine learning model and does not match the robustness of enterprise-level security checkers. 
+- The dataset may not cover all characteristics of weak passwords.  
 
 ## **6. Ethical Considerations & Responsible Use**  
-This tool should be used responsibly and not be modified for malicious purposes or to mislead users about password security.  
+- This tool should be used responsibly and not be modified for malicious purposes or to mislead users about password security. 
+- The code and the model trained in this repository is for educational use only and should not be used for commercial purposes as it does not match the robustness required in the real world. 
+- The tool does not store any enterd passwords however it is quite easy to add back-end code that will store users passwords after they check its strength, such misuse of the software should be avoided at all costs.
 
 
 ## **7. License**  
