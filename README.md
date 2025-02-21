@@ -1,4 +1,4 @@
-# **Password Strength Classifier**
+# **Password Strength Checker**
 Password Strength Checker App that allows users to check the strength of their password.
 ![App Image](Results/strong_password_image.png) 
 
