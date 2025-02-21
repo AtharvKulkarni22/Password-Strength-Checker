@@ -1,3 +1,11 @@
+#####################################################
+##              Reference links used:              ## 
+#####################################################
+# 1. Reference used for SGD:   https://www.geeksforgeeks.org/ml-stochastic-gradient-descent-sgd/
+# 2. Reference used for TFIDF: https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/
+# 3. Reference used for Levenshtein distance: https://www.geeksforgeeks.org/introduction-to-levenshtein-distance/
+#####################################################
+
 import pandas as pd
 import numpy as np
 import re
