@@ -1,6 +1,6 @@
 # **Password Strength Checker**
 Password Strength Checker App that allows users to check the strength of their password.
-![App Image](Results/strong_password_image.png) 
+<img src="Results/strong_password_image.png" alt="App Image" width="300" height="200">
 
 ## **1. Dataset**  
 The dataset is taken from **[Kaggle - Password Strength Classifier Dataset](https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset)**.  
