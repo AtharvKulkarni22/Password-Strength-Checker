@@ -74,7 +74,12 @@ This tool should be used responsibly and not be modified for malicious purposes 
 This project is licensed under the **MIT License**. 
 
 ## **8. How to Run**  
-Please clone the repositary and run the app using the following command from the base directory of the repsitory:  
+Please clone the repositary and install the following dependencies:
+
+```sh
+pip install pandas numpy joblib matplotlib scikit-learn nltk python-Levenshtein tqdm
+```
+Then run the app using the following command from the base directory of the repsitory:  
 
 ```sh
 python User_Interface/ui.py
